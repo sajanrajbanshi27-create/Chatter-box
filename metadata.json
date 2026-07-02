@@ -1,0 +1,6 @@
+{
+  "name": "ChatterBox",
+  "description": "A high-fidelity full-stack chat application with real-time direct messaging, group channels, mock audio/video calls, a multi-persona Gemini AI chatbot, and an AI Image Generator supporting up to 4K sizes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
